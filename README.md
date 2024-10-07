@@ -1,4 +1,4 @@
-## Hi👋, I am Rishika Agarwal
+<h1 align="center">Hi 👋, I'm Rishika Agarwal</h1>
 
 - 🌱 I’m currently learning new skills.
 - 💬 Ask me about React, Typescript, NodeJS.
