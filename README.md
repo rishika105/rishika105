@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishika Agarwal</h1><br>
 
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=rishika105&label=Profile%20views&color=0e75b6&style=flat" alt="rishika105" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika105&label=Profile%20views&color=0e75b6&style=flat" alt="rishika105" /> </p>
 
 <p align="left">
   <a href="https://github.com/rishika105/github-profile-trophy">
