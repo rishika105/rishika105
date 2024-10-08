@@ -84,7 +84,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika105&show_icons=true&locale=en&theme=dark" alt="rishika105" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika105&theme=dark" alt="rishika105" /></p><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika105&theme=dark" alt="rishika105" /></p>
 
 
 
