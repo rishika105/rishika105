@@ -1,8 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rishika Agarwal</h1><br>
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika105&label=Profile%20views&color=0e75b6&style=flat" alt="rishika105" /> </p>
+
+<p align="left">
+  <a href="https://github.com/rishika105/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=onestar&&column=9&row=1" />
+  </a>
+</p><br>
+
 - 🌱 I’m currently learning new skills.
+  
 - 💬 Ask me about React, Typescript, or anything here.
+  
 - 📫 How to reach me: rishikaagarwal2316@gmail.com
+  
 - ⚡ Enhancing my DSA using C++.
 
  <h2 align="left">Connect with me:</h2>
@@ -75,11 +86,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika105&theme=dark" alt="rishika105" /></p><br>
 
-<p align="left">
-  <a href="https://github.com/rishika105/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=onestar&&column=9&row=1" />
-  </a>
-</p>
+
 
 <h2 align="left">Snake eating my contributions🐍</h2>
 <div align="left">
