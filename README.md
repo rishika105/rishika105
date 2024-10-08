@@ -1,11 +1,21 @@
-<h1 align="center">Hi 👋, I'm Rishika Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Rishika Agarwal</h1><br>
 
 - 🌱 I’m currently learning new skills.
-- 💬 Ask me about React, Typescript, NodeJS.
+- 💬 Ask me about React, Typescript, or anyhthing here.
 - 📫 How to reach me: rishikaagarwal2316@gmail.com
 - ⚡ Enhancing my DSA using C++.
 
-<h3 align="left">Languages and Tools:</h3>
+ <h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishika105" height="30" width="40" /></a>
+<a href="https://dribbble.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rishika105" height="30" width="40" /></a>
+<a href="https://www.behance.net/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishika105" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishika105" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -60,6 +70,20 @@
 </p>
 
 
-<div align="center">
+<h2 align="left">Stats:</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika105&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishika105" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika105&show_icons=true&locale=en&theme=dark" alt="rishika105" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika105&theme=dark" alt="rishika105" /></p><br>
+
+<p align="center">
+  <a href="https://github.com/rishika105/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=nord&&column=9&row=1" />
+  </a>
+</p>
+
+<h2 align="left">Snake eating my contributions🐍</h2>
+<div align="left">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishika105/rishika105/output/github-contribution-grid-snake-dark.svg" />
 </div>
