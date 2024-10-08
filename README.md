@@ -75,18 +75,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishika105&theme=dark" alt="rishika105" /></p><br>
 
-
-
-<h2 align="left">Snake eating my contributions🐍</h2>
-<div align="left">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishika105/rishika105/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-
-
-<h2 align="left">Trophies:</h2>
 <p align="left">
   <a href="https://github.com/rishika105/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=nord&&column=9&row=1" />
   </a>
 </p>
+
+<h2 align="left">Snake eating my contributions🐍</h2>
+<div align="left">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishika105/rishika105/output/github-contribution-grid-snake-dark.svg" />
+</div>
