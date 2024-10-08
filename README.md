@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishika Agarwal</h1><br>
 
 - 🌱 I’m currently learning new skills.
-- 💬 Ask me about React, Typescript, or anyhthing here.
+- 💬 Ask me about React, Typescript, or anything here.
 - 📫 How to reach me: rishikaagarwal2316@gmail.com
 - ⚡ Enhancing my DSA using C++.
 
