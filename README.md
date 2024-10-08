@@ -8,9 +8,9 @@
  <h2 align="left">Connect with me:</h2>
 <p align="left">
    <a href="mailto:rishikaagarwal2316@gmail.com" target="blank"><img align="center" src="https://lh3.googleusercontent.com/a/ACg8ocK3ki1xaGh5XWE_q1muJo_rlxW3lMK7Z48Qd1g_nngsYmbORtY=s288-c-no" alt="rishikaagarwal2316@gmail.com" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rishika-agarwal-b96790301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
   <a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
-   <a href="https://github.com/users/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a>
+   <a href="https://github.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a>
   <a href="https://discord.com/users/rishika0787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishika105" height="30" width="40" /></a>
   
 
@@ -78,7 +78,7 @@
 
 <p align="center">
   <a href="https://github.com/rishika105/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=nord&&column=9&row=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=dark&&column=9&row=1" />
   </a>
 </p>
 
