@@ -77,7 +77,7 @@
 
 <p align="left">
   <a href="https://github.com/rishika105/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=nord&&column=9&row=1" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rishika105&theme=onestar&&column=9&row=1" />
   </a>
 </p>
 
