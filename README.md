@@ -7,13 +7,12 @@
 
  <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rishika105" height="30" width="40" /></a>
-<a href="https://dribbble.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rishika105" height="30" width="40" /></a>
-<a href="https://www.behance.net/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="rishika105" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishika105" height="30" width="40" /></a>
-</p>
+   <a href="mailto:rishikaagarwal2316@gmail.com" target="blank"><img align="center" src="https://lh3.googleusercontent.com/a/ACg8ocK3ki1xaGh5XWE_q1muJo_rlxW3lMK7Z48Qd1g_nngsYmbORtY=s288-c-no" alt="rishikaagarwal2316@gmail.com" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
+  <a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
+   <a href="https://github.com/users/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a>
+  <a href="https://discord.com/users/rishika0787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishika105" height="30" width="40" /></a>
+  
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
