@@ -3,7 +3,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishika105&label=Profile%20views&color=0e75b6&style=flat" alt="rishika105" /> </p>
 
 <p align="left">
-    <img src="https://github-trophies.vercel.app/?username=rishika105&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=10" alt="rishika105 trophies" />
+    <img src="https://github-trophies.vercel.app/?username=rishika105&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=9" alt="rishika105 trophies" />
 </p>
 
 
