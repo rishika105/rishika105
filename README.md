@@ -21,7 +21,6 @@
   <a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
    <a href="https://github.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a>
   <a href="https://discord.com/users/rishika0787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishika105" height="30" width="40" /></a>
-   <a href="https://leetcode.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishika105" height="30" width="40" /></a>
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
