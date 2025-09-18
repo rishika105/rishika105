@@ -49,6 +49,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a>
 
+<!-- Tailwind CSS -->
+<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+</a>
+
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -64,9 +69,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
-<!-- Tailwind CSS -->
-<a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<!-- Angular -->
+<a href="https://angular.io/" target="_blank" title="Angular">
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
+</a>
+
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank" title="Next.js">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+       alt="nextjs" class="bg-white rounded-full p-1"  width="40" height="40"/>
 </a>
 
 
@@ -76,23 +87,9 @@
 </a>
 
 <!-- Express.js -->
-<a href="https://expressjs.com" target="_blank" title="Express.js">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
-
-<!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank" title="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-
-<!-- Angular -->
-<a href="https://angular.io/" target="_blank" title="Angular">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
+<a href="https://expressjs.com/" target="_blank" title="Express.js">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" 
+       alt="express" width="40" height="40"/>
 </a>
 
 
@@ -100,6 +97,28 @@
 <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
 </a>
+
+<!-- GraphQL -->
+<a href="https://graphql.org/" target="_blank" title="GraphQL">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" title="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+
+
 
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" title="Git">
@@ -137,6 +156,12 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </a>
 </p>
+
+
+
+
+
+
 
 <h2 align="left">Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika105&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishika105" /></p>
