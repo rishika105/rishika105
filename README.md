@@ -117,10 +117,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank" title="Docker">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a>
 
 
 <!-- Git -->
@@ -128,16 +124,22 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<!-- Postman -->
-<a href="https://www.postman.com/" target="_blank" title="Postman">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</a>
-
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" title="Figma">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" title="Postman">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" title="Docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
 
 
 <!-- Apache Kafka -->
