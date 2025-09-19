@@ -69,6 +69,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
+
+
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" title="Angular">
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
@@ -78,6 +80,12 @@
 <a href="https://nextjs.org/" target="_blank" title="Next.js">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
        alt="nextjs" class="bg-white rounded-full p-1"  width="40" height="40"/>
+</a>
+
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" title="Redux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+       alt="redux" width="40" height="40"/>
 </a>
 
 
@@ -96,6 +104,8 @@
 <a href="https://graphql.org/" target="_blank" title="GraphQL">
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
+
+
 
 
 <!-- Spring Boot -->
