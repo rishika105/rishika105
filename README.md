@@ -92,16 +92,18 @@
        alt="express" width="40" height="40"/>
 </a>
 
+<!-- GraphQL -->
+<a href="https://graphql.org/" target="_blank" title="GraphQL">
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+</a>
+
 
 <!-- Spring Boot -->
 <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
 </a>
 
-<!-- GraphQL -->
-<a href="https://graphql.org/" target="_blank" title="GraphQL">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-</a>
+
 
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
@@ -153,7 +155,7 @@
 </a>
 
 <!-- AWS -->
-<a href="https://aws.amazon.com/" target="_blank" title="Amazon Web Services (AWS)">
+<a href="https://aws.amazon.com/" target="_blank" title="AWS">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </a>
 </p>
