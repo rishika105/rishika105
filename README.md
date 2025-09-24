@@ -13,7 +13,7 @@
   
 - 📫 How to reach me: rishikaagarwal2316@gmail.com
   
-- ⚡ Enhancing my DSA using C++.
+- ⚡ Enhancing DSA with C++.
 
  <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -64,11 +64,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
+
+
 <!-- React -->
 <a href="https://reactjs.org/" target="_blank" title="React">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
 </a>
 
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank" title="Redux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+       alt="redux" width="40" height="40"/>
+</a>
 
 
 <!-- Angular -->
@@ -82,10 +89,11 @@
        alt="nextjs" class="bg-white rounded-full p-1"  width="40" height="40"/>
 </a>
 
-<!-- Redux -->
-<a href="https://redux.js.org/" target="_blank" title="Redux">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
-       alt="redux" width="40" height="40"/>
+
+
+<!-- Nginx -->
+<a href="https://nginx.org/" target="_blank" title="Nginx">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </a>
 
 
@@ -105,15 +113,10 @@
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
 </a>
 
-
-
-
 <!-- Spring Boot -->
 <a href="https://spring.io/projects/spring-boot" target="_blank" title="Spring Boot">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
 </a>
-
-
 
 <!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
@@ -129,23 +132,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-
-
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" title="Git">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
 
-<!-- Figma -->
-<a href="https://www.figma.com/" target="_blank" title="Figma">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
 
 <!-- Postman -->
 <a href="https://www.postman.com/" target="_blank" title="Postman">
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </a>
 
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" title="Linux">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+</a>
 
 
 <!-- Docker -->
@@ -169,9 +170,6 @@
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 </a>
 </p>
-
-
-
 
 
 
