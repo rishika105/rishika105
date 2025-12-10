@@ -177,9 +177,9 @@
 
 
 <h2 align="left">Stats:</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishika105&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishika105" /></p>
+<p><img align="left" src="https://github-readme-stats-virid-psi-99.vercel.app/api/top-langs?username=rishika105&show_icons=true&locale=en&layout=compact&theme=dark" alt="rishika105" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishika105&show_icons=true&locale=en&theme=dark" alt="rishika105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-virid-psi-99.vercel.app/api?username=rishika105&show_icons=true&locale=en&theme=dark" alt="rishika105" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-chi-sepia.vercel.app?user=rishika105&theme=dark" alt="GitHub Streak" /></a>
 
