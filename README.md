@@ -17,10 +17,8 @@
 
  <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rishika-agarwal-b96790301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a>
-  <a href="https://twitter.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a>
-   <a href="https://github.com/rishika105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a>
-  <a href="https://discord.com/users/rishika0787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishika105" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rishika-agarwal-b96790301" target="blank"><img style="margin-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishika105" height="30" width="40" /></a><a href="https://twitter.com/rishika105" target="blank"><img style="margin-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishika105" height="30" width="40" /></a><a href="https://github.com/rishika105" target="blank"><img style="margin-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishika105" height="30" width="40" /></a><a href="https://discord.com/users/rishika0787" target="blank"><img style="margin-right:10px;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rishika105" height="30" width="40" /></a>
+</p>
   
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
