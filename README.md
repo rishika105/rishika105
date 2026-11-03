@@ -78,7 +78,7 @@
 
 <!-- Angular -->
 <a href="https://angular.io/" target="_blank" title="Angular">
-  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
 </a>
 
 <!-- Next.js -->
